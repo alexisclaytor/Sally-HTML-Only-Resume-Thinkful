@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8"/>
+  <title>Sally's Resume</title>
+  <meta name="description" content="Sally Weaver - Web Content Strategist and Aspiring Web Developer, with a passion in launching and managing creative projects that connect communities">
+</head>
+<body>
+  <header>
+    <h1>Sally Weaver</h1>
+    <img src="http://ia.media-imdb.com/images/M/MV5BMTY5NzE3NzU3MF5BMl5BanBnXkFtZTgwMjg0NTQ5MDE@._V1_UX214_CR0,0,214,317_AL_.jpg">
+    <address>Email:<a href="mailto:alexis.claytor@gmail.com?subject=Connecting">alexis.claytor@gmail.com</a>
+    <p>32 Rockwell Street, Boston, MA 02124</p>
+    <p>617-411-0000</p>
+  </address>
+  </header>
+  <main>
+    <section>
+      <h1>Education<h1>
+        <h4>B.A. from <a href="https:www.bu.edu">Boston University</a></h4>
+        <h4>M.Ed. from <a href="https:gseis.ucla.edu">UCLA</a></h4>
+        <h4>Front-End Web Development Program from <a href="https:www.thinkful.com">Thinkful</a></h4>
+
+    </section>
+    <section>
+      <h1>Freelance Work</h1>
+        <h4>Web Content Strategist</h4>
+          <address>New York</address> 10/15 - Present
+          <p>Create and implement strategic plans for
+            small businesses and startups regarding
+            their online content. Launch websites,
+            from layout to content. Proficient in
+            HTML5/CSS3 and SQL. Working
+            proficiency in Javascript and jQuery.</p>
+    </section>
+    <section>
+      <h1>Nonprofit Sector Work</h1>
+        <h3>HVA</h3>
+        <h4>Lead Teacher</h4>
+          <address>New York</address> 08/15 - 08/16
+          <p>Engaged an audience with varied needs.
+            Analyzed and leveraged student data to
+            inform and implement differentiated
+            instruction. Strengthened the test
+            preparation curriculum, resulting in my
+            ICT classroom achieving the highest 5th
+            grade ELA practice state test passing
+            percentage in the district within the last
+            two years.</p>
+    </section>
+    <section>
+        <h3>BPS</h3>
+        <h4>Founding Teacher</h4>
+          <address>Boston</address> 07/15 - 07/16
+            <p>Planned a social justice centered
+              curriculum that aligned with the
+              Montessori pedagogy. Created and
+              sustained an organized learning
+              environment that encouraged student
+              agency. Managed and facilitated
+              communication between school
+              faculty and the Boston Teacher's
+              Union.</p>
+    </section>
+  </main>
